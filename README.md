@@ -16,5 +16,3 @@
 - 💬 Ask me about **Java, Javascript, React and NodeJS**
 
 - 📫 How to reach me **vaideeswaran.c23@gmail.com**
-
-- 🐦 Reach out on **[Twitter](https://twitter.com/crimson__king_)**
