@@ -1,20 +1,35 @@
-![logo](Vaidee.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<h1 align="center">Hi 👋, I'm Vaideeswaran Chandrasekaran</h1>
-<h3 align="center">A developer from India</h3>
-<p align="center">I'm Vaidee, a developer by day, caffeine enthusiast by night, and a firm believer that semicolons are the real superheroes of programming🦸‍♂️. <br><br>When I'm not wrestling with bugs or engaged in an epic battle with my keyboard, you'll find me exploring the latest memes or contemplating the meaning of life in commit messages. <br><br>My code is like a fine wine - it gets better with time, and occasionally, it makes me question my life choices. 🍷</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=vaideeswaran23&label=Profile%20views&color=0e75b6&style=flat" alt="Vaideeswaran Chandrasekaran" /> 
+<p align="center">
+  <img src="vaidee-header.gif" alt="Hi, I'm Vaidee 👋 I'm a 🚀 Back End Engineer 🚀 ❤️ Happy Coding ❤️">
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+## About Me
 
-- 🌱 I’m currently into project mode in **MERN**
+I'm a passionate backend engineer specializing in building **scalable, reliable, and high-performance** backend solutions. I focus on designing systems that can handle growth, maintain efficiency, and deliver exceptional performance at scale.
 
-- 💬 Ask me about **Java, Javascript, React and NodeJS**
 
-- 📫 How to reach me **vaideeswaran.c23@gmail.com**
+## 📫 Let's Connect
 
-- 🐦 Reach out on **[Twitter](https://x.com/vaidee23)**
+- LinkedIn: [linkedin.com/in/vaideeswaranc](https://linkedin.com/in/vaideeswaranc)
+- Email: vaidee.work@gmail.com
+- Portfolio: [vaideeswaran.com](https://vaideeswaran.com)
+- X: [x.com/vaideeswaran23](x.com/https://x.com/vaideeswaran23)
+---
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaideeswaran23&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing!;Happy+Coding!+🚀" alt="Closing Message" />
+</div>
+
+*"The best backend is the one users never have to think about - it just works, scales, and delivers."*
